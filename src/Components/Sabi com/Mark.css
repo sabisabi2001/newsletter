@@ -1,0 +1,51 @@
+.bg1 {
+  background-color: yellow;
+}
+
+.href {
+  text-decoration: none !important;
+  padding: 5px;
+  font-size: 23px;
+  background-color: white;
+  margin-top: 10px;
+  color: black !important;
+}
+.href:hover {
+  background-color: yellow;
+}
+.span {
+  text-align: center !important;
+}
+.span2 {
+  border: 1px solid black;
+  /* padding: 5px; */
+}
+.box {
+  border: 1px solid rgb(78, 74, 74);
+  border-radius: 5px;
+  min-height: 898px;
+}
+.mark {
+  text-decoration: none;
+  color: black;
+}
+.mark:hover {
+  text-decoration: underline;
+}
+.web {
+  border: 1px solid rgb(78, 74, 74);
+  border-radius: 5px;
+}
+
+.p1 {
+  background-color: #e7e4b0ec;
+}
+.box5 {
+  background-color: rgb(174, 222, 241);
+}
+.box6 {
+  background-color: white;
+}
+.box7 {
+  background-color: antiquewhite;
+}

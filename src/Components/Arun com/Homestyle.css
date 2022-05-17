@@ -1,0 +1,27 @@
+/* Home page */
+
+.fontsize {
+  font-weight: bolder;
+  font-size: 50px;
+}
+.hometext {
+  font-size: 27px;
+}
+a {
+  text-decoration: none;
+}
+.hometext2 {
+  font-size: 18px;
+}
+.seebgcolor {
+  background-color: rgba(255, 113, 208, 0.2);
+}
+
+/* Transacation eamil page */
+
+.table1 {
+  border: 1px solid rgb(73, 70, 70);
+  border-radius: 5px;
+  min-height: 560px;
+  overflow: hidden;
+}
